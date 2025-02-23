@@ -11,4 +11,4 @@
 
 Ниже приведен скриншот запущенного приложения с результатами работы:
 
-![Работа 1]([path/to/your/screenshot.png](https://github.com/neftysha/Practic3.2/blob/main/1pr3.png))
+![Работа 1](https://github.com/neftysha/Practic3.2/blob/main/1pr3.png)
